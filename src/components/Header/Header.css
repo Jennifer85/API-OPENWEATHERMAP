@@ -1,0 +1,16 @@
+.header {
+    font-family: Roboto;
+    font-weight: bold;
+    background-color: #fff;
+    padding: 25px 0px 25px 100px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3); /* Параметры тени */
+}
+
+.header-title {
+    font-size: 30px;
+}
+
+.header-app {
+    font-size: 48px;
+    margin: 0px;
+}

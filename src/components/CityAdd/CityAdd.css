@@ -1,0 +1,16 @@
+.city-add {
+    margin: 20px 30%;
+    box-shadow: 0 0 20px rgba(0,0,0,0.3); /* Параметры тени */
+}
+
+.city-add-input {
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Roboto;
+    border: 0px ;
+    border-bottom: 2px solid #40a070;
+}
+.city-add-input:focus {
+    outline: none;
+}

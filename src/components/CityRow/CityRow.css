@@ -1,0 +1,32 @@
+.city-row {
+    background-color: #fff;
+    padding: 10px;
+    border-bottom: 2px solid #f1f1f1;
+    font-family: Roboto;
+}
+.city-row-data{
+    width: 70%;
+    vertical-align: middle;
+    display: inline-block;
+}
+.city-row-icon {
+    width: 30%;
+    text-align: right;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.city-row-town {
+    margin: 0px;
+    font-size: 24px;
+}
+
+.city-row-temp {
+    margin: 0px;
+    font-size: 16px;
+}
+
+.city-row-desc {
+    margin: 0px;
+    font-size: 16px;
+}
