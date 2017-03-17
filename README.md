@@ -1,4 +1,4 @@
-# API OPENWHEATHERMAP CON REACTJS
+# API Openweathermap con Reactjs 
 SPA CLIMA con &amp;&amp; React.JS usando el api openweathermap
  
 Instalar
